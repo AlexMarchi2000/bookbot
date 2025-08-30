@@ -10,17 +10,17 @@ A CLI Text AnalyzerBookBot is a simple Command-Line Interface (CLI) tool written
 To use BookBot, you'll need Python 3.x installed on your system.
 Clone the repository:
 ```bash
-git clone [https://github.com/AlexMarchi2000/bookbot.git](https://github.com/AlexMarchi2000/bookbot.git)
+git clone https://github.com/AlexMarchi2000/bookbot.git
 cd bookbot
 ```
 Run the tool:
 Use the bookbot.py script and pass your file as an argument.
 ```bash
-python3 main.py <path_to_your_file>
+python bookbot.py <path_to_your_file>
 ```
 For example:
 ```bash
-python3 main.py books/frankenstein.txt
+python bookbot.py books/frankenstein.txt
 ```
 
 ## 📋 Example Output
