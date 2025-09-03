@@ -1,5 +1,5 @@
 # 📚 BookBot:
-A CLI Text AnalyzerBookBot is a simple Command-Line Interface (CLI) tool written in Python. It's designed to analyze text files, providing two key pieces of information: the total word count and the frequency of each character, sorted from most to least frequent.This tool is perfect for anyone who wants a quick way to get basic statistics from any text file, whether it's a book, an article, or a simple document.
+A CLI Text Analyzer. BookBot is a simple Command-Line Interface (CLI) tool written in Python. It's designed to analyze text files, providing two key pieces of information: the total word count and the frequency of each character, sorted from most to least frequent. This tool is perfect for anyone who wants a quick way to get basic statistics from any text file, whether it's a book, an article, or a simple document.
 
 ## ✨ Features
 - Word Count: Quickly get the total number of words in a text file.
